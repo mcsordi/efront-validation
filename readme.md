@@ -4,7 +4,7 @@ this is my firs project using a scss, i decided to make a simple project of vali
 
 ## Preview
 
-https://github.com/mcsordi/efront-validation/blob/master/src/images/Captura%20de%20tela%20de%202023-02-27%2016-21-02.png
+<img src="https://github.com/mcsordi/efront-validation/blob/master/src/images/Captura%20de%20tela%20de%202023-02-27%2016-21-02.png" height="500"/>
 
 ## Live link
 
