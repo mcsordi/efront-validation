@@ -12,9 +12,9 @@ https://mcsordi.github.io/efront-validation/
 
 ## Used Languages
 
--Javascript
--SCSS
--HTML
+- Javascript
+- SCSS
+- HTML
 
 ## Instruction to run:
 
