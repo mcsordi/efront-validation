@@ -18,14 +18,14 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 650px;
-    height: 700px;
+    width: 550px;
+    height: 650px;
     border-style: solid;
     border-color: rgba($color: #d9d9d9, $alpha: 0.06);
     border-width: 2px;
     margin-top: -60px;
     border-radius: 20px;
-    box-shadow: 10px 0px 20px 1px rgba($color: #f9f9f9, $alpha: 0.6);
+    box-shadow: 10px 0px 10px 0.6px rgba($color: #f9f9f9, $alpha: 0.4);
     background-color: #212529;
   }
   .textlogo-button {
@@ -54,13 +54,13 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 600px;
+    width: 500px;
     text-align: center;
     margin-top: -50px;
 
     h2 {
       font-family: "Sora", sans-serif;
-      font-size: 48px;
+      font-size: 40px;
       color: #f9f9f9;
       text-align: center;
       font-weight: 600;
@@ -68,7 +68,7 @@ body {
 
     p {
       font-family: "Inter", sans-serif;
-      font-size: 26px;
+      font-size: 20px;
       color: #aeaeae;
       font-weight: 500px;
       text-align: start;
@@ -80,7 +80,7 @@ body {
 
     h3 {
       font-family: "Inter", sans-serif;
-      font-size: 32px;
+      font-size: 26px;
       color: #04d361;
       font-weight: 500px;
     }
@@ -97,7 +97,7 @@ body {
       font-family: "Inter", sans-serif;
       font-size: 20px;
       display: flex;
-      width: 600px;
+      width: 500px;
       height: 60px;
       border-color: #212529;
       background-color: #0c0c0c;
@@ -146,6 +146,9 @@ body {
         font-weight: 400;
       }
     }
+    button.modalOpen {
+      width: 600px;
+    }
   }
   .modal-closed {
     display: flex;
@@ -172,6 +175,7 @@ body {
     }
     button.red {
       background-color: #ff3e3e;
+      width: 600px;
     }
     span.red {
       font-family: "Sora", sans-serif;
@@ -182,7 +186,7 @@ body {
   }
   button {
     height: 60px;
-    width: 600px;
+    width: 500px;
     font-family: "Inter", sans-serif;
     font-size: 24px;
     color: #0c0c0c;
